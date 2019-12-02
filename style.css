@@ -1,0 +1,14 @@
+h1{
+    color:gray;
+    font-size:20px;
+    text-decoration:underline;
+    line-height:5px;
+    text-align:center;
+    
+}
+p{
+   color:skyblue;
+   font-family:sans-serif;
+   line-height:20px;
+   text-transform:capitalize; 
+}
